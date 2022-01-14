@@ -1,0 +1,10 @@
+Item:
+  item-id: MOOSHROOM_SPAWN_EGG
+  title: Item Maldito
+  description:
+    - "&m                                                    "
+    - "No podras desacerte de este objeto"
+    - "Pasalo y dejaras de estar maldito"
+    - "&m                                                    "
+
+Last-cursed-username: null

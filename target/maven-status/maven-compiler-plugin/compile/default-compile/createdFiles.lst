@@ -1,0 +1,7 @@
+adri4555\curseditem\config\FileConfig.class
+adri4555\curseditem\Main.class
+adri4555\curseditem\manager\ItemMananager.class
+adri4555\curseditem\commands\command.class
+adri4555\curseditem\events\DeadUnresolvableItem.class
+adri4555\curseditem\inventory\InventoryPass.class
+adri4555\curseditem\items\CursedItem.class

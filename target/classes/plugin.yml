@@ -1,0 +1,9 @@
+main: adri4555.curseditem.Main
+name: CursedItem
+version: 0.9.4
+api-version: 1.17
+author: adri4555
+depend: [NBTAPI]
+commands:
+  curi:
+    description: Prueba
